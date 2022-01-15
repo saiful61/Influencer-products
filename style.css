@@ -80,6 +80,7 @@ nav li a{
         background-color: orange;
         color: white;
     }
+
     /* populer-collection-part-started  */
 
     .main{
@@ -118,15 +119,11 @@ nav li a{
     }
     .item-title{
         margin-top: 16px;
-        /* margin-left: 14px; */
         font-size: 28px;
         font-weight: 500;
     }
     .price{
         margin: 0;
-    }
-    .Collection-info {
-        /* margin-left: 14px; */
     }
     .fa-star.filled{
          /* margin-left:14px; */
